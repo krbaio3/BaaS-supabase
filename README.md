@@ -11,10 +11,10 @@ Este proyecto configura un entorno completo de Supabase utilizando Docker y Dock
 
 1. Clona este repositorio:
 
-	  ```bash
-		git clone https://github.com/tuusuario/supabase-docker-setup.git
-		cd supabase-docker-setup
-		```
+```bash
+$ git clone https://github.com/tuusuario/supabase-docker-setup.git
+$ cd supabase-docker-setup
+```
 
 2. Abre el archivo `docker-compose.yml` y personaliza las siguientes variables de entorno:
 
